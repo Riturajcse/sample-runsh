@@ -3,6 +3,6 @@ resources:
     type: gitRepo
     integration: github
     pointer:
-      sourceName: chetantarale/sample-script
+      sourceName: Riturajcse/sample-script
       branch: master
 
